@@ -9,7 +9,9 @@ Skills used in programming: c++, artificial intelligence, 2D game collision dete
 
 Platform: windows 7
 
+
 How to run the game: 
+
 1) compile the source code by yourself: use visual studio to compile and run the game. The complete source code and other file can be found here:
 https://www.dropbox.com/sh/6oqicv66xenky6i/AADG-bnmSV5JJ0LGgHIDJJSxa?dl=0
 
