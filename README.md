@@ -1,4 +1,5 @@
 # Clockwork-Muscovy
+(team member: Xiaozhe Shen)
 
 Clockwork Muscovy is a RPG game setting the background at University of Idaho (Moscow, Idaho) campus with a steampunk style. 
 
@@ -16,6 +17,7 @@ https://www.dropbox.com/sh/6oqicv66xenky6i/AADG-bnmSV5JJ0LGgHIDJJSxa?dl=0
 https://www.dropbox.com/sh/xqwoxnyxfl1bzrl/AADymKtNk5pchmCaij_XCwvha?dl=0
 
 Storyline (the game only acheves the very first part of the storyline):
+
 Clockwork  Muscovy  portrays  the city  of Muscovy experiences a time of unprecedented industrial growth,  and is struggling to deal with  the consequences:   environmental  pollution  ensures  Muscovy  rests  in  a near-constant cover of poisoned clouds, clean drinking  water is hard to come by, and  self-reliance is a citizen’s most  valuable  trait. To make matters worse, the poisoned  wasteland  that surrounds Muscovy  is home to a range  of dangerous predators, human  and otherwise.  Although electricity exists on a limited scale, the use of steam is ubiquitous in powering household and public appliances,  and by modern standards technology is in its infancy.  On the other hand,  magic sporadically  manifests itself in people who show a sensitivity to it, and  magic, steam-powered technology and what little remains  of mother nature coexist in ever starker contrast.
 
 It is in this setting that students at the University  of Muscovy  try  to make the  world a better place by trying to  understand their  environment  and  each other.  In the spirit  of self-reliance,  the applied sciences have never been more popular,  and  the U of M is home to the most promising chemists and  natural philosophers,  as well as those who train for a life in the military as ROTC  cadets.
