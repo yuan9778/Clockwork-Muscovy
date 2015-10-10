@@ -1,5 +1,5 @@
 # Clockwork-Muscovy
-(team member: Xiaozhe Shen)
+(other team member: Xiaozhe Shen)
 
 Clockwork Muscovy is a RPG game setting the background at University of Idaho (Moscow, Idaho) campus with a steampunk style. 
 
