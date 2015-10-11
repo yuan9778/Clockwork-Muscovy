@@ -5,7 +5,7 @@ Clockwork Muscovy is a RPG game setting the background at University of Idaho (M
 
 This repository includes all source codes but misses pics because of large file limitation of github.
 
-**Skills used in programming:** c++, artificial intelligence, 2D game collision detection, windows graphic API, object oriented programming.
+**Skills used in programming:** c++, artificial intelligence (A* search...), 2D game collision detection, windows graphic API, object oriented programming.
 
 **Platform:** windows 7
 
