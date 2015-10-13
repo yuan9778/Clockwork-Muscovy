@@ -3,7 +3,7 @@
 
 Clockwork Muscovy is a RPG game setting the background at University of Idaho (Moscow, Idaho) campus with a steampunk style. 
 
-This repository includes all source codes but misses pics because of large file limitation of github.
+This repository includes all source codes but lacks other files (maps...) because of large file limitation of github.
 
 **Skills used in programming:** c++, artificial intelligence (A* search...), 2D game collision detection, windows graphic API, object oriented programming.
 
