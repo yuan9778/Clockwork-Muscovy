@@ -16,7 +16,7 @@ This repository includes all source codes but lacks other files (maps...) becaus
 
 
 **How to run the game:**  
-1) compile the source code by yourself: use visual studio to compile and run the game. The complete source code and other file can be found here:
+1) compile the source code by yourself: use visual studio to compile and run the game. The complete source code and resource files can be found here:
 https://www.dropbox.com/sh/6oqicv66xenky6i/AADG-bnmSV5JJ0LGgHIDJJSxa?dl=0
 
 2) or you can run the exe version directly on windows 7. Download exe version here:
